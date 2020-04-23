@@ -1,0 +1,43 @@
+name="Instalar/actualizar Acestream Mod"
+section="no"
+url="https://archive.org/download/wizardk_201812/AceStream_MOD_ver3-3.1.48.0-armv7.apk"
+icon="https://archive.org/download/wizardk_201812/icon.png"
+fanart="https://archive.org/download/wizardk_201812/fanart.jpg"
+adult="no"
+description="Ace Stream Media, necesario para ver deportes"
+
+
+name="Instalar/actualizar Telegorda"
+section="no"
+url="https://vergol.com/telegorda.apk"
+icon="https://archive.org/download/wizardk_201812/icon.png"
+fanart="https://archive.org/download/wizardk_201812/fanart.jpg"
+adult="no"
+description="Telegorda"
+
+
+name="Instalar AptoideTV (Para instalar app)"
+section="no"
+url="https://archive.org/download/wizardk_201812/aptoide-tv.apk"
+icon="https://archive.org/download/wizardk_201812/icon.png"
+fanart="https://archive.org/download/wizardk_201812/fanart.jpg"
+adult="no"
+description="Aptoide"
+
+
+name="Instalar/actualizar Youtube Android TV"
+section="no"
+url="https://archive.org/download/wizardk_201812/YouTube.apk"
+icon="https://archive.org/download/wizardk_201812/icon.png"
+fanart="https://archive.org/download/wizardk_201812/fanart.jpg"
+adult="no"
+description="Youtube"
+
+
+name="Instalar Anydesk (para reparar tvbox)"
+section="no"
+url="https://archive.org/download/wizardk_201812/TeamViewer.apk"
+icon="https://archive.org/download/wizardk_201812/icon.png"
+fanart="https://archive.org/download/wizardk_201812/fanart.jpg"
+adult="no"
+description="TeamvieWer"
