@@ -3,7 +3,7 @@ version="1.0.0"
 zip="https://github.com/KWIZARDK/kwizardk.github.io/blob/master/plugin.program.newwizardk.zip"
 
 name="WIZARDK KODI 17"
-version="4.2.5"
+version="4.2.6"
 url="https://onedrive.live.com/download?cid=37A1140F68D545C2&resid=37A1140F68D545C2%21146&authkey=AI1z2wHahuwdcIc"
 gui=""
 kodi="17"
